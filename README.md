@@ -1,1 +1,1 @@
-My first readme.
+Repository for introductory task/projects of SWE.
